@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+dist/
+build/
+*.spec
+*.log
+access_log*
+
+# venvs
+.venv/
+venv/
+ENV/
+
+# OS junk
+.DS_Store
+Thumbs.db
