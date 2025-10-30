@@ -1,1 +1,20 @@
-X19weWNhY2hlXy9cbioucHljXG4qLnB5b1xuKi5weWRcblxuZGlzdC9cbiBidWlsZC9cbiouc3BlY1xuYWNjZXNzX2xvZyoucG5nXG5hY2Nlc3NfbG9nKj1cblxuLnZlbnYvXG52ZW52L1xuRU5WL1xuXG4uRFNfU3RvcmVcbnRodW1icy5kYlxu
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+dist/
+build/
+*.spec
+*.log
+access_log*
+
+# venvs
+.venv/
+venv/
+ENV/
+
+# OS junk
+.DS_Store
+Thumbs.db
