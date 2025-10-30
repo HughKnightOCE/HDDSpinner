@@ -1,0 +1,4 @@
+#config
+info = "..\\data\\access_log.txt"
+spec = {
+    "l
