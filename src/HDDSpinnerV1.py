@@ -1,5 +1,5 @@
 import os
 import time
 import threading
-import = DriveSpinnerApp(root)
-    root.mainloop()
+import rename
+n = 0

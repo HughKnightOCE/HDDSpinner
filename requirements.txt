@@ -1,1 +1,1 @@
-# Standard library only; no third-party deps for core script\n
+IyBObyBleHRlcm5hbCBkZXBlbmRlbmNpZXMgcmVxdWlyZWQK
