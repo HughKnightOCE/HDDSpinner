@@ -4,7 +4,7 @@ import threading
 import rename
 
 def touch(file_path):
-    os.n´¢"""
+    os.nÂ´Â¢"""
 import os
 import time
 import threading
